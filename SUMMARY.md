@@ -10,3 +10,11 @@
 
 * [Tweet Generator](cs-1.2/tweet-generator.md)
 
+## FEW 1.1
+
+* [Untitled](few-1.1/untitled.md)
+
+## SPD 1.2
+
+* [Ideas](spd-1.2/ideas.md)
+
