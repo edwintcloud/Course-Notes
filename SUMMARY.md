@@ -4,7 +4,7 @@
 
 ## BEW 1.2
 
-* [Untitled](bew-1.2/untitled.md)
+* [Sorting and Re-arrangement](bew-1.2/untitled.md)
 
 ## CS 1.2
 
