@@ -5,6 +5,7 @@
 ## BEW 1.2
 
 * [Sorting and Re-arrangement](bew-1.2/untitled.md)
+* [File Operations](bew-1.2/file-operations.md)
 
 ## CS 1.2
 
