@@ -4,12 +4,11 @@
 
 ## BEW 1.2
 
-* [Sorting and Re-arrangement](bew-1.2/untitled.md)
-* [File Operations](bew-1.2/file-operations.md)
-
 ## CS 1.2
 
 * [Tweet Generator](cs-1.2/tweet-generator.md)
+* [File Operations](cs-1.2/file-operations.md)
+* [Sorting and Re-arrangement](cs-1.2/sorting-and-re-arrangement.md)
 
 ## FEW 1.1
 

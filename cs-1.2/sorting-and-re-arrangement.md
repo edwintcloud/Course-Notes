@@ -5,4 +5,4 @@
 * sorted\(items\) creates new array with items sorted
 * items.sort\(\) sorts array in place
 * \[1:\] is a slice operator which returns a new array from index 1 to end
-* 
+
