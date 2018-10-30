@@ -9,6 +9,7 @@
 * [Tweet Generator](cs-1.2/tweet-generator.md)
 * [File Operations](cs-1.2/file-operations.md)
 * [Sorting and Re-arrangement](cs-1.2/sorting-and-re-arrangement.md)
+* [Probability](cs-1.2/probability.md)
 
 ## FEW 1.1
 
