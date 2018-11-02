@@ -10,6 +10,7 @@
 * [File Operations](cs-1.2/file-operations.md)
 * [Sorting and Re-arrangement](cs-1.2/sorting-and-re-arrangement.md)
 * [Probability](cs-1.2/probability.md)
+* [Random](cs-1.2/random.md)
 
 ## FEW 1.1
 
