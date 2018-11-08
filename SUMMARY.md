@@ -11,6 +11,7 @@
 * [Sorting and Re-arrangement](cs-1.2/sorting-and-re-arrangement.md)
 * [Probability](cs-1.2/probability.md)
 * [Random](cs-1.2/random.md)
+* [Questions](cs-1.2/questions.md)
 
 ## FEW 1.1
 
