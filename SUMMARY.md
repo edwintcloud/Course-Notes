@@ -12,6 +12,7 @@
 * [Probability](cs-1.2/probability.md)
 * [Random](cs-1.2/random.md)
 * [Questions](cs-1.2/questions.md)
+* [Markov Chains](cs-1.2/markov-chains.md)
 
 ## FEW 1.1
 
