@@ -24,4 +24,5 @@
 
 * [Ideas](spd-1.2/ideas.md)
 * [UI/UX Design](spd-1.2/ui-ux-design.md)
+* [Typography and Design](spd-1.2/typography-and-design.md)
 
