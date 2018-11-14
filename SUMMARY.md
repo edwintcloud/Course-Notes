@@ -13,6 +13,7 @@
 * [Random](cs-1.2/random.md)
 * [Questions](cs-1.2/questions.md)
 * [Markov Chains](cs-1.2/markov-chains.md)
+* [Arrays and Linked Lists](cs-1.2/arrays-and-linked-lists.md)
 
 ## FEW 1.1
 
