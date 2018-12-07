@@ -4,6 +4,8 @@
 
 ## BEW 1.2
 
+* [MongoDB](bew-1.2/mongodb.md)
+
 ## CS 1.2
 
 * [Tweet Generator](cs-1.2/tweet-generator.md)
